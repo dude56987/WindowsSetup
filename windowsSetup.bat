@@ -26,7 +26,7 @@ choco install flashplayerplugin
 choco install clamwin
 choco install 7zip
 choco install MicrosoftSecurityEssentials
-echo below package is broken for some reason
+:: below package is broken for some reason
 choco install InfraRecorder
 choco install ChocolateyGUI 
 choco install sumatrapdf
